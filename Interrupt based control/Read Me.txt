@@ -1,0 +1,1 @@
+This includes basic control of External induced interrutpt (INT0,INT1) and Timer interrupt using the TImer One Library and also the normal polling method.

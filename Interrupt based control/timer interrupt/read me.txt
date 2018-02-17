@@ -1,0 +1,2 @@
+this file includes the code and operation of the timer interrupt in arduino uno.
+***This program needs Timer One library to run.***
